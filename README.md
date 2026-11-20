@@ -9,6 +9,12 @@
 
 VEYRA Daily Planner is a desktop productivity application developed in Python. It provides a simple interface for managing daily tasks, monitoring completion progress, and maintaining a persistent task list between sessions.
 
+## Application Preview
+
+![VEYRA Daily Planner v1.0.0 — Windows Desktop Application](assets/veyra-daily-planner-screenshot.png)
+
+*VEYRA Daily Planner featuring a custom dark-themed interface, task management, progress tracking, and VEYRA Studio branding.*
+
 ## Features
 
 - Add, edit, delete, and complete tasks
